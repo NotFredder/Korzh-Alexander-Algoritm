@@ -1,1 +1,2 @@
 # Korzh-Alexander-Algoritm
+☠️💀☠️ phyton ☠️💀☠️
