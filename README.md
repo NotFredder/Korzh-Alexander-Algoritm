@@ -9,4 +9,4 @@ habr - https://freelance.habr.com/freelancers/notfredder
 
 form - https://forms.gle/dBqpWR91f29L5W3D6
 
-АХАХААХАХААХ - https://docs.google.com/spreadsheets/d/1G_48xXlYGALXe_7AwIbQF4GDzZeHMVQy5Sa6bUV3YM0/edit?usp=sharing
+form таблица - https://docs.google.com/spreadsheets/d/1G_48xXlYGALXe_7AwIbQF4GDzZeHMVQy5Sa6bUV3YM0/edit#gid=304746539
