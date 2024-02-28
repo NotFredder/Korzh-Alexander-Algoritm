@@ -12,4 +12,4 @@ form - https://forms.gle/dBqpWR91f29L5W3D6
 form таблица - https://docs.google.com/spreadsheets/d/1G_48xXlYGALXe_7AwIbQF4GDzZeHMVQy5Sa6bUV3YM0/edit#gid=304746539
 
 
-7156519959:AAF6r3KE_G5FQQ_F8IPxBnXvRaJwapExDsw
+https://forms.gle/FYjp9ToNVT8WSRzc8
